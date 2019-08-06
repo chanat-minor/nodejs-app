@@ -1,0 +1,25 @@
+{
+  "name": "simple-nodejs-app",
+  "version": "1.0.0",
+  "description": "A simple nodejs app for PoC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanat-minor/simple-nodejs-app.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "CA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chanat-minor/simple-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/chanat-minor/simple-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
